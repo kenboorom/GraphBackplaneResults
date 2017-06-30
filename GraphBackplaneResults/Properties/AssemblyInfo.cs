@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GraphBackplaneResults")]
+[assembly: AssemblyTitle("EyeDiagramWithGraph")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GraphBackplaneResults")]
+[assembly: AssemblyProduct("EyeDiagramWithGraph")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("921530e4-1e1e-4020-9c4d-f20e4e303b62")]
+[assembly: Guid("b0e83ebd-369e-4133-9dee-637f47516989")]
 
 // Version information for an assembly consists of the following four values:
 //
